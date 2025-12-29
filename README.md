@@ -1,4 +1,4 @@
-I'm currently working on repos for an upcoming Manning book on machine learning (gradient boosting and deep learning) with tabular data.
+I'm currently working on repos for testing using Antigravity.
 
 I've created "hello world" examples that work in Colab for the follwoing deep learning with tabular data stacks:
 - [TabNet on PyTorch](https://github.com/ryanmark1867/tabnet_basics)
